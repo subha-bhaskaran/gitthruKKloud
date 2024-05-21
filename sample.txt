@@ -1,0 +1,3 @@
+I am trying to learn git on CLI
+Here i wanted to see the impact of any modification made to the file so modifying it.
+I am going to try studying the restore option. So after this line I am going to add this file to the staging area and make an addtional change. Once that change also is added and shown pops up in the working area. I am going to restore it to this one and the other line will not be there.
