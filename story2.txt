@@ -1,0 +1,2 @@
+learn about creating a repo. How to link the local repo and the remote repository. Also learnt about the working and staging area.
+Missed to add about recovering the file. So before commit its always recover the file and then make the change not 2 copies.
